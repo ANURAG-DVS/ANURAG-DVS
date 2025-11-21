@@ -1,11 +1,3 @@
-<pre>
- █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗     ██████╗ ██╗   ██╗███████╗
-██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝     ██╔══██╗██║   ██║██╔════╝
-███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║  ███╗    ██║  ██║██║   ██║███████╗
-██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║   ██║    ██║  ██║╚██╗ ██╔╝╚════██║
-██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╔╝    ██████╔╝ ╚████╔╝ ███████║
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═════╝   ╚═══╝  ╚══════╝
-</pre>
 # 💫 About Me:
 ## About Me<br><br>I'm Anurag — a developer and ML enthusiast based in Hyderabad.<br><br>Currently finishing my B.E. (Honours) in IT with a specialization in AI & ML at Osmania University. I enjoy building things that sit at the intersection of software engineering and intelligent systems.<br><br>**Currently into:** Full-stack development, NLP, precision agriculture ML<br><br>**Stack:** Python · JavaScript · React · Node · PostgreSQL · FastAPI<br><br>[LinkedIn](https://linkedin.com/in/anurag-dupakuntla/) · [Email](mailto:anuragdvs07@gmail.com)
 
@@ -28,7 +20,7 @@
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ANURAG-DVS) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuragdvs) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
