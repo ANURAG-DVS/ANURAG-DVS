@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ANURAG-DVS&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/ANURAG-DVS/ANURAG-DVS/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ANURAG-DVS/ANURAG-DVS/blob/output/github-snake-dark.svg)
 
 
 
