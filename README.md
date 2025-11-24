@@ -8,7 +8,9 @@ Recently graduated with a **B.E. (Honours) in Information Technology**, speciali
 
 ---
 
-I'm drawn to the rare overlap where elegant code meets real cognition: turning raw data into decisions that matter — whether it's a farmer predicting crop stress from drone imagery or a multilingual chatbot that finally understands Indian sarcasm.[LinkedIn](https://linkedin.com/in/anurag-dupakuntla/) · [Email](mailto:anuragdvs07@gmail.com)
+I'm drawn to the rare overlap where elegant code meets real cognition: turning raw data into decisions that matter — whether it's a farmer predicting crop stress from drone imagery or a multilingual chatbot that finally understands Indian sarcasm.
+
+[LinkedIn](https://linkedin.com/in/anurag-dupakuntla/)        ·       [Email](mailto:anuragdvs07@gmail.com)
 
 
 ## 🌐 Socials:
