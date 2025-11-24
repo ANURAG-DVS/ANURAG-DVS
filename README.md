@@ -1,8 +1,14 @@
 # 💫 About Me:
-## About Me<br><br>I'm Anurag — a developer and ML enthusiast from Hyderabad, building intelligent systems that feel alive.<br><br>Recently graduated with a B.E. (Honours) in Information Technology, specializing in AI & ML from Osmania University — where I consistently ranked in the top 1% and led multiple research-grade projects from ideation to deployment.<br><br>I’m drawn to the rare overlap where elegant code meets real cognition: turning raw data into decisions that matter — whether it’s a farmer predicting crop stress from drone imagery or a multilingual chatbot that finally understands Indian sarcasm.<br><br>**Currently obsessed with:**  
-Full-stack systems that scale · NLP for Indic languages · Precision agriculture powered by edge ML<br><br>**Stack I live in:**  
-Python · JavaScript/TypeScript · React · Next.js · Node · FastAPI · PostgreSQL · PyTorch · Docker · AWS · Terraform<br><br>
-If it involves clean architecture, multimodal models, or making technology work for Bharat’s billion-plus — count me in. Always open to conversations that push the boundary of what software can feel like. 🚀[LinkedIn](https://linkedin.com/in/anurag-dupakuntla/) · [Email](mailto:anuragdvs07@gmail.com)
+
+I'm **Anurag** — a developer and ML enthusiast from Hyderabad, building intelligent systems that feel alive.
+
+---
+
+Recently graduated with a **B.E. (Honours) in Information Technology**, specializing in **AI & ML** from **Osmania University** — where I consistently ranked in the **top 1%** and led multiple research-grade projects from ideation to deployment.
+
+---
+
+I'm drawn to the rare overlap where elegant code meets real cognition: turning raw data into decisions that matter — whether it's a farmer predicting crop stress from drone imagery or a multilingual chatbot that finally understands Indian sarcasm.[LinkedIn](https://linkedin.com/in/anurag-dupakuntla/) · [Email](mailto:anuragdvs07@gmail.com)
 
 
 ## 🌐 Socials:
