@@ -28,9 +28,7 @@ I'm drawn to the rare overlap where elegant code meets real cognition: turning r
 
 ![snake gif](https://github.com/ANURAG-DVS/ANURAG-DVS/blob/output/github-snake-dark.svg)
 
-
-
-  ## 💰 You can help me by Donating
+## 💼 Support My Work
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuragdvs) 
 
   
